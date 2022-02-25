@@ -12,6 +12,7 @@
   },
   "author": "amagow-f",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/amagow-f/hello-world/issues"
   },
